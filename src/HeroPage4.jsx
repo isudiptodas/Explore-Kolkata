@@ -20,7 +20,7 @@ const HeroPage4 = () => {
         <div className='bg-black h-full w-70% flex flex-col phone:gap-2 sm:gap-0 justify-center'>
                 <div className='phone:h-16 flex flex-col justify-center items-start phone:px-5 sm:px-8 lg:px-11 xl:px-14'>
                     <p className='phone:text-sm text-white sm:text-lg lg:text-2xl xl:text-3xl'>Stroll through history at</p>
-                    <h3 className=' phone:text-xl sm:text-3xl lg:text-5xl xl:text-6xl font-bold font-Montserrat bg-gradient-to-r from-blue-700 via-purple-500 to-purple-800 bg-clip-text text-transparent'>VICTORIA MEMORIAL</h3>
+                    <h3 className=' phone:text-xl sm:text-3xl lg:text-5xl xl:text-6xl font-bold font-Montserrat bg-gradient-to-r  from-green-300 via-green-500 to-green-700 bg-clip-text text-transparent'>VICTORIA MEMORIAL</h3>
                 </div>
                 <div className='phone:h-5 lg:h-10 xl:h-10 w-full phone:text-s flex phone:px-6 phone:gap-3 sm:mt-4 sm:px-8 lg:mt-6 lg:px-12 xl:px-16 xl:mt-9'>
                     <button className='bg-blue-600 text-white px-2 lg:px-7 xl:px-8 phone:text-xs lg:text-lg xl:text-lg text-center rounded-sm cursor-pointer'>Know more...</button>
