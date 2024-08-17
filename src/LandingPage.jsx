@@ -5,6 +5,7 @@ import HeroPage3 from './HeroPage3'
 import HeroPage4 from './HeroPage4'
 import ExploreMore from './ExploreMore'
 import Footer from './Footer'
+import HowToReach from './HowToReach'
 
 const LandingPage = () => {
   return (
@@ -14,6 +15,7 @@ const LandingPage = () => {
         <HeroPage3/>
         <HeroPage4/>
         <ExploreMore/>
+        <HowToReach />
         <Footer/>
    </>
   )
